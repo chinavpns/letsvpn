@@ -75,8 +75,8 @@
 
 总之，快连VPN在价格方案上提供了多种选择，涵盖短期、季度和长期的套餐，并配有3天免费试用和一定的退款保障。但与市面上一些知名国际VPN服务相比，其性价比和客户支持体验略显不足。用户在选择时应根据自己的实际需求、预算以及对客服响应速度的要求，全面衡量是否选择快连VPN的服务。相比之下，我们更推荐大家使用以下两款顶级VPN软件：
 
-* <a href="https://wallvpn.com/go/expressvpn/">ExpressVPN – 翻墙最稳定，速度最快，30天免费</a>
-* <a href="https://wallvpn.com/go/purevpn/">PureVPN – 安全好用，价格便宜，2.11美金/月</a>
+<p align="center"><a href="https://wallvpn.com/go/expressvpn/">ExpressVPN – 翻墙最稳定，速度最快，30天免费</a></p>
+<p align="center"><a href="https://wallvpn.com/go/purevpn/">PureVPN – 安全好用，价格便宜，2.11美金/月</a></p>
 
 ## 快连VPN用的什么协议？
 
