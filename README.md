@@ -116,5 +116,5 @@
 
 总而言之，快连VPN在某些方面提供了便利和功能支持，但在隐私保护、连接稳定性和流媒体解锁的稳定性方面可能并未完全达到部分用户的高标准。对于普通用户来说，快连VPN能够满足日常的网络访问和部分跨地域需求，但对安全性和隐私要求更高的用户，或对流媒体服务有严格解锁需求的用户，则可能需要权衡其优势和不足，谨慎决定是否选择这款VPN服务。相比之下，我们更推荐大家使用以下两款顶级VPN软件：
 
-* <a href="https://wallvpn.com/go/expressvpn/">ExpressVPN – 翻墙最稳定，速度最快，30天免费</a>
-* <a href="https://wallvpn.com/go/purevpn/">PureVPN – 安全好用，价格便宜，2.11美金/月</a>
+<p align="center"><a href="https://wallvpn.com/go/expressvpn/">ExpressVPN – 翻墙最稳定，速度最快，30天免费</a></p>
+<p align="center"><a href="https://wallvpn.com/go/purevpn/">PureVPN – 安全好用，价格便宜，2.11美金/月</a></p>
