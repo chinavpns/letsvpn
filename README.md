@@ -1,6 +1,6 @@
 # 大揭秘：快连VPN怎么样？快连VPN安全吗？快连VPN是钓鱼软件吗？
 
-<p align="center">最近更新于：2025年7月6日</p>
+<p align="center">最近更新于：2025年8月14日</p>
 
 ![大揭秘：快连VPN怎么样？快连VPN安全吗？快连VPN是钓鱼软件吗？](https://raw.githubusercontent.com/chinavpns/letsvpn/refs/heads/main/image/LetsVPN.png)
 
